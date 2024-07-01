@@ -10,7 +10,7 @@
  * @see https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Strict_equality
  */
 export const ex1 = (a: number, b: number) => {
-	return null;
+  return null;
 };
 
 /**
@@ -32,7 +32,7 @@ export const ex1 = (a: number, b: number) => {
  * @see https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...else
  */
 export const ex2 = (a: number, b: number) => {
-	return null;
+  return null;
 };
 
 /**
@@ -51,5 +51,5 @@ export const ex2 = (a: number, b: number) => {
  * Hint: to check if something is odd, think about the remainder when dividing by 2.
  */
 export const ex3 = (a: number) => {
-	return null;
+  return null;
 };

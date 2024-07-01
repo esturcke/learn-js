@@ -9,7 +9,7 @@
  * @see https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Addition
  */
 export const ex1 = (a: number, b: number) => {
-	return null;
+  return null;
 };
 
 /**
@@ -21,7 +21,7 @@ export const ex1 = (a: number, b: number) => {
  * @see https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Subtraction
  */
 export const ex2 = (a: number, b: number) => {
-	return null;
+  return null;
 };
 
 /**
@@ -33,7 +33,7 @@ export const ex2 = (a: number, b: number) => {
  * @see https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Multiplication
  */
 export const ex3 = (a: number, b: number) => {
-	return null;
+  return null;
 };
 
 /**
@@ -45,7 +45,7 @@ export const ex3 = (a: number, b: number) => {
  * @see https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Division
  */
 export const ex4 = (a: number, b: number) => {
-	return null;
+  return null;
 };
 
 /**
@@ -62,7 +62,7 @@ export const ex4 = (a: number, b: number) => {
  * @see https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/floor
  */
 export const ex5 = (a: number, b: number) => {
-	return null;
+  return null;
 };
 
 /**
@@ -74,5 +74,5 @@ export const ex5 = (a: number, b: number) => {
  * @see https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Remainder
  */
 export const ex6 = (a: number, b: number) => {
-	return null;
+  return null;
 };

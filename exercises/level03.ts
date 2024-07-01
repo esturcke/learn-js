@@ -16,7 +16,7 @@
  * @see https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
  */
 export const ex1 = (a: number) => {
-	return null;
+  return null;
 };
 
 /**
@@ -33,7 +33,7 @@ export const ex1 = (a: number) => {
  * Write a function that gets the second element of an array.
  */
 export const ex2 = (a: number[]) => {
-	return null;
+  return null;
 };
 
 /**
@@ -51,7 +51,7 @@ export const ex2 = (a: number[]) => {
  * Write a function that returns a 2 x 2 grid of the passed number.
  */
 export const ex3 = (a: number) => {
-	return null;
+  return null;
 };
 
 /**
@@ -66,7 +66,7 @@ export const ex3 = (a: number) => {
  * Write a function that returns `true` if the length of an array is empty.
  */
 export const ex4 = (a: number[]) => {
-	return null;
+  return null;
 };
 
 /**
@@ -89,7 +89,7 @@ export const ex4 = (a: number[]) => {
  * @see https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for
  */
 export const ex5 = (a: number[]) => {
-	return null;
+  return null;
 };
 
 /**
@@ -108,5 +108,5 @@ export const ex5 = (a: number[]) => {
  * Write a function that returns the sum of the elements in an 2-dimensional array.
  */
 export const ex6 = (a: number[][]) => {
-	return null;
+  return null;
 };
